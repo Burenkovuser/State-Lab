@@ -13,6 +13,7 @@
 		FBFFAB941F00F2780044795E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBFFAB921F00F2780044795E /* Main.storyboard */; };
 		FBFFAB961F00F2780044795E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBFFAB951F00F2780044795E /* Assets.xcassets */; };
 		FBFFAB991F00F2780044795E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBFFAB971F00F2780044795E /* LaunchScreen.storyboard */; };
+		FBFFABA11F010FCA0044795E /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = FBFFABA01F010FCA0044795E /* smiley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FBFFAB951F00F2780044795E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBFFAB981F00F2780044795E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBFFAB9A1F00F2780044795E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBFFABA01F010FCA0044795E /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smiley.png; path = "../../../../../Users/vasilii/Downloads/StateLab-master/StateLab/smiley.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		FBFFAB881F00F2780044795E /* State Lab */ = {
 			isa = PBXGroup;
 			children = (
+				FBFFABA01F010FCA0044795E /* smiley.png */,
 				FBFFAB8C1F00F2780044795E /* AppDelegate.h */,
 				FBFFAB8D1F00F2780044795E /* AppDelegate.m */,
 				FBFFAB8F1F00F2780044795E /* ViewController.h */,
@@ -137,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBFFABA11F010FCA0044795E /* smiley.png in Resources */,
 				FBFFAB991F00F2780044795E /* LaunchScreen.storyboard in Resources */,
 				FBFFAB961F00F2780044795E /* Assets.xcassets in Resources */,
 				FBFFAB941F00F2780044795E /* Main.storyboard in Resources */,
@@ -309,6 +313,7 @@
 				FBFFAB9F1F00F2780044795E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
